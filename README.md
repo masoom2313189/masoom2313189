@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masoom Rizvi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Masoom Rizvi&label=Profile%20views&color=0e75b6&style=flat" alt="Masoom Rizvi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masoom2313189&label=Profile%20views&color=0e75b6&style=flat" alt="Masoom Rizvi" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **masoom2313189@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE6HUcWxd0/_dJn6liw6-zEh3RAxgCnjA/edit?utm_content=DAE6HUcWxd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE6HUcWxd0/_dJn6liw6-zEh3RAxgCnjA/edit?utm_content=DAE6HUcWxd0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+- 📄 Know about my experiences [https://www.linkedin.com/in/masoom-rizvi-a127b3235/]
 - ⚡ Fun fact **Fun Facts’ Are Never Fun**
 
 <h3 align="left">Connect with me:</h3>
