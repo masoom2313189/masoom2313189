@@ -4,7 +4,7 @@
   <img src="https://img.etimg.com/thumb/height-450,width-600,imgsize-638053,msid-84146056/.jpg" width="600" height="300"/>
 </div>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoom2313189&label=Profile%20views&color=0e75b6&style=flat" alt="Masoom Rizvi" /> </p>
 
