@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masoom Rizvi</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="600" height="300"/>
 </div>
 
 <h3 align="center">A passionate frontend developer from India</h3>
