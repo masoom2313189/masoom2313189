@@ -16,6 +16,7 @@
 - 📫 How to reach me **masoom2313189@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/masoom-rizvi-a127b3235/]
+
 - ⚡ Fun fact **Fun Facts’ Are Never Fun**
 
 <h3 align="left">Languages and Tools:</h3>
