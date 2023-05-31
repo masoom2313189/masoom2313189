@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at <a href="https://masoom2313189.github.io/">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://masoom2313189.github.io/" target="_blank">Portfolio</a>
 
 - 💬 Ask me about **Javascript,HTML,CSS**
 
 - 📫 How to reach me **masoom2313189@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/masoom-rizvi-a127b3235/]
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/masoom-rizvi-a127b3235/" target="_blank">LinkedIn</a>
 
 - ⚡ Fun fact **Fun Facts’ Are Never Fun**
 
