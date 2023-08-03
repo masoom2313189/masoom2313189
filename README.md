@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masoom2313189" alt="masoom2313189" /></a> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as **Full Stack Web Developement (TA) at Coding Ninjas**
 
 - 👨‍💻 All of my projects are available at <a href="https://masoom2313189.github.io/" target="_blank">Portfolio</a>
 
