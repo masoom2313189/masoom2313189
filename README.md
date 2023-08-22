@@ -27,8 +27,8 @@
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masoom2313189&theme=nord_bright" alt="masoom2313189" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoom2313189&show_icons=true&locale=en&layout=compact" alt="Masoom Rizvi" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masoom2313189&theme=nord_bright" alt="masoom2313189" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoom2313189&show_icons=true&locale=en" alt="Masoom Rizvi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoom2313189&show_icons=true&locale=en&layout=compact" alt="Masoom Rizvi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoom2313189&" alt="Masoom Rizvi" /></p>
