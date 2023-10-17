@@ -30,3 +30,11 @@
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masoom2313189&theme=nord_bright" alt="masoom2313189" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoom2313189&" alt="Masoom Rizvi" /></p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsinhagithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="amankumarsinhagithub"
+  />
+</p>
