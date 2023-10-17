@@ -34,7 +34,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarsinhagithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    alt="amankumarsinhagithub"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoom2313189&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="masoom2313189"
   />
 </p>
