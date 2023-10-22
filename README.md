@@ -10,11 +10,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masoom2313189" alt="masoom2313189" /></a> </p>
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at <a href="https://masoom2313189.github.io/" target="_blank">Portfolio</a>
 
-- 💬 Ask me about **Javascript,HTML,CSS, NodeJS, ExpressJS, MongoDB, EJS**
+- 💬 Ask me about **React Js, JavaScript, HTML, CSS, NodeJS, ExpressJS, MongoDB, EJS, Material UI**
 
 - 📫 How to reach me **masoom2313189@gmail.com**
 
