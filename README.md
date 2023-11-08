@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://masoom2313189.github.io/" target="_blank">Portfolio</a>
 
-- 💬 Ask me about **React Js, JavaScript, HTML, CSS, NodeJS, ExpressJS, MongoDB, EJS, Material UI**
+- 💬 Ask me about **React Js, Tailwind, JavaScript, Firebase, HTML, CSS, NodeJS, ExpressJS, MongoDB**
 
 - 📫 How to reach me **masoom2313189@gmail.com**
 
